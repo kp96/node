@@ -37,6 +37,7 @@
       'lib/dns.js',
       'lib/domain.js',
       'lib/events.js',
+      'lib/proxy.js',
       'lib/fs.js',
       'lib/fs/promises.js',
       'lib/http.js',
